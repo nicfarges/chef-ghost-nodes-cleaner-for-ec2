@@ -1,4 +1,4 @@
-### Chef ghosts ec2 nodes cleaner
+## Chef ghost nodes cleaner for EC2
 
 a small utility to delete in a single command any node defined in chef, but not existing as a live node in EC2. a kind of *chef node cleanup routine*.
 
